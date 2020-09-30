@@ -55,3 +55,9 @@ To get or create nested resources
 GET  /tweets/1/comments
 POST /tweets/1/comments
 ```
+
+
+### Bonus
+
+- build your own API and DB(MySQL/MongoDB)
+- design Schemas for DB
