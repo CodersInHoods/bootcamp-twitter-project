@@ -20,7 +20,7 @@ https://www.figma.com/file/XZaHZskW8etyyJsdmcmlR5/Twitter-app?node-id=0%3A1
 
 ## Required features
 
-!!! ALL VIEW/PAGES FROM THE DESIGN SHOULD BE IMPLEMENTED !!!
+!!! ALL VIEWS/PAGES FROM THE DESIGN SHOULD BE IMPLEMENTED !!!
 
 * Login
   * Ignore the password, but "login" as a user if the username matches any in from the API
